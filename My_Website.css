@@ -1,0 +1,58 @@
+.wrapper {
+  width: 700px;
+  margin: auto;
+}
+
+.container-name {
+  background-color: #ECC1AA;
+  background-repeat: no-repeat;
+}
+
+header {
+  height: 100px;
+  background-color: #ECC1AA;
+  font-family: 'Saira Extra Condensed', sans-serif;
+  font-size: 40px;
+}
+
+.margin {
+  margin: 0;
+}
+
+main {
+  font-family: 'Saira Extra Condensed', sans-serif;
+  font-size: 20px
+}
+
+img{
+  width: 100%
+}
+
+.margin-footer {
+  margin: 0;
+}
+
+footer {
+  font-family: 'Saira Extra Condensed', sans-serif;
+}
+
+/* unvisited link */
+a:link {
+  color: #FF0000;
+}
+
+/* visited link */
+a:visited {
+  color: #00FF00;
+}
+
+/* mouse over link */
+a:hover {
+  color: #FF00FF;
+}
+
+/* selected link */
+a:active {
+  color: #0000FF;
+
+}
